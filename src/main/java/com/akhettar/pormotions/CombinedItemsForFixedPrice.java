@@ -18,6 +18,9 @@ public class CombinedItemsForFixedPrice implements Promotion {
         this.price = price;
     }
 
+    public Combo getCombo() {
+        return combo;
+    }
     @Override
     public BigDecimal apply(final int... quantity) {
         int a = quantity[0];
