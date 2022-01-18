@@ -1,8 +1,8 @@
 package com.akhettar;
 
 
-import model.Item;
-import model.SKU;
+import com.akhettar.model.Item;
+import com.akhettar.model.SKU;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

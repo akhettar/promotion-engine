@@ -1,4 +1,4 @@
-package model;
+package com.akhettar.model;
 
 import lombok.Data;
 

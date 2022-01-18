@@ -1,6 +1,6 @@
 package com.akhettar;
 
-import model.Item;
+import com.akhettar.model.Item;
 
 import java.util.ArrayList;
 import java.util.List;
